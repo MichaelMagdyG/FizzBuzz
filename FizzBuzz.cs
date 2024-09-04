@@ -1,3 +1,5 @@
+//dotnet new console -o FizzBuzzApp
+// dotnet run
 using System;
 
 class Program
